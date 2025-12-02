@@ -1,7 +1,6 @@
 # XOREngine
 
-**XOREngine** es un laboratorio dedicado a la **inteligencia artificial aplicada**, la **ingeniería de rendimiento** y el desarrollo de **sistemas en tiempo real**.  
-Diseñamos prototipos, pipelines y herramientas técnicas que combinan modelos de IA.
+**XOREngine** es un laboratorio dedicado a la **inteligencia artificial aplicada**, la **ingeniería de rendimiento** y el desarrollo de **sistemas en tiempo real**. Diseñamos prototipos, pipelines y herramientas técnicas que combinan modelos de IA.
 
 ---
 
