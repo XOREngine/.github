@@ -1,22 +1,23 @@
 # XOREngine
 
-**XOREngine** es un laboratorio dedicado a la **inteligencia artificial aplicada**, la **ingeniería de rendimiento** y el desarrollo de **sistemas en tiempo real**. Diseñamos prototipos, pipelines y herramientas técnicas que combinan modelos de IA.
+**XOREngine** is a lab focused on **applied artificial intelligence**, **performance engineering**, and **real-time systems**.  
+We design prototypes, pipelines, and technical tools that combine AI models with efficient execution.
 
 ---
 
-## Áreas de trabajo
+## Areas of work
 
-- Audio, ASR, NMT y procesamiento de señales  
-- Visión por computador y análisis de imagen  
-- Simulación, generación sintética y herramientas para datasets  
-- Optimización de modelos (quantization, batching, pipelines GPU)  
-- Infraestructura ligera para inferencia y servicios en producción  
+- Audio, ASR, NMT, and signal processing  
+- Computer vision and image analysis  
+- Simulation, synthetic data generation, and dataset tooling  
+- Model optimization (quantization, batching, GPU pipelines)  
+- Lightweight infrastructure for inference and production services  
 
 ---
 
-## Enlaces
+## Links
 
-- Web: https://xorengine.com  
-- Contacto: info@xorengine.com  
+- Website: https://xorengine.com  
+- Contact: info@xorengine.com  
 - GitHub org: https://github.com/XOREngine  
 - LinkedIn: https://linkedin.com/in/xorengine  
