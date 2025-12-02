@@ -20,4 +20,4 @@ We design prototypes, pipelines, and technical tools that combine AI models with
 - Website: https://xorengine.com  
 - Contact: info@xorengine.com  
 - GitHub org: https://github.com/XOREngine  
-- LinkedIn: https://linkedin.com/in/xorengine  
+- LinkedIn: https://linkedin.com/company/xorengine  
